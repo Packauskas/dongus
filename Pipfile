@@ -8,6 +8,7 @@ numpy = "*"
 flask = "*"
 requests = "*"
 ipython = "*"
+giphy-client = "*"
 
 [requires]
 python_version = "3.8"
